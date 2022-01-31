@@ -1,0 +1,5 @@
+Bonjour
+Je suis un ficher de test
+Je represente un certain nombre de phrases banales et sans interet dans le but de remplacer des caracteres ou strings dans ce document.
+Aller salut a tout le monde et Joyeux noel. Joyeuses fetes. Joyeux Halloween et tralala.
+bisous.
